@@ -1,3 +1,3 @@
 # SnakeGameUsingJS
 
-This is a very famous Game which of snake which is eating balls and its size is increasing according to the number of balls eaten by it. it will give you a nice pleasure.
+This is a very famous old Game where you, the snake, have to eat apples and its size increases according to the number of apples eaten. It will give you a nice time to chill.
